@@ -4,13 +4,26 @@
   "description": "Pequeña biblioteca JavaScript para traducir de português para el portunhol",
   "version": "0.0.1",
   "homepage": "http://github.com/cv/portunhol.js",
+
   "repository": {
     "type": "git",
     "url": "git://github.com/cv/portunhol.js.git"
   },
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {},
+
+  "main": "index.js",
+
+  "dependencies": {
+
+  },
+
+  "devDependencies": {
+    "jasmine-node": "*"
+  },
+
+  "scripts": {
+    "test": "./node_modules/jasmine-node/bin/jasmine-node --verbose specs/"
+  },
+
   "engines": {
     "node": "*"
   }
