@@ -30,7 +30,7 @@ var regexps = [
   [/\bcedo\b/, "temprano"],
   [/\bisso\b/, "eso"],
   [/\bmuito\b/, "mucho"],
-  [/\bmelhor\b/, 'mejor'],
+  [/\bmelhor(es)?\b/, 'mejor$1'],
   [/\bnós\b/, "nosotros"],
   [/\btroc(ar|o)\b/, "cambi$1"],
   [/\bse\b/, "si"],
@@ -72,7 +72,8 @@ var regexps = [
   [/\batchei\b/, "encontré"],
   [/\b(\w+)iñlos\b/, "$1linos"],
   [/\b(\w+)uz(\w+)\b/, "$1uc$2"],
-  [/\b(\w+)quena\b/, "$1queña"]
+  [/\b(\w+)quena\b/, "$1queña"],
+  [/\b(\w+)ou\b/, "$1oy"]
 ];
 
 exports.portunholate = function(original, debug) {
