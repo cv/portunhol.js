@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var portunhol = require('./portunhol.js').portunholate;
 var lazy = require("lazy");
 var fs  = require("fs");
