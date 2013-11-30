@@ -23,4 +23,5 @@ describe('Portunholator', function() {
   p('só percebemos o valor da água depois que a fonte seca', 'solamente percebemos lo valor de la água despues que la fuente sieca');
   p('sigam-me os bons!', '¡sigam-me los buenos!');
   p('pequena biblioteca JavaScript para traduzir de português para o portunhol', 'pequeña biblioteca JavaScript para traducir de português para lo portuñol');
+  p('o que você vai fazer hoje?', 'lo que usted vai hacer hoy?')
 });

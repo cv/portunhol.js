@@ -1,4 +1,6 @@
 var regexps = [
+  [/\svocê\s/, " usted "],
+  [/\bfazer\b/, "hacer"],
   [/\bda\b/, "de la"],
   [/\bdo\b/, "del"],
   [/\bna\b/, "en la"],
