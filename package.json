@@ -4,17 +4,18 @@
   "description": "Pequena biblioteca JavaScript para traducir de português para lo portuñol",
   "version": "0.0.1",
   "homepage": "http://github.com/cv/portunhol.js",
+  "license" : "BSD",
 
   "repository": {
     "type": "git",
     "url": "git://github.com/cv/portunhol.js.git"
   },
 
-  "main": "portunhol.js",
+  "main": "cli.js",
   "bin": "portunhol.js",
 
   "dependencies": {
-
+    "lazy": "*"
   },
 
   "devDependencies": {
