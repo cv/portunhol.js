@@ -10,7 +10,8 @@
     "url": "git://github.com/cv/portunhol.js.git"
   },
 
-  "main": "index.js",
+  "main": "portunhol.js",
+  "bin": "portunhol.js",
 
   "dependencies": {
 
