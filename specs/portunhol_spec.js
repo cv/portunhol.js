@@ -25,4 +25,5 @@ describe('Portunholator', function() {
   p('pequena biblioteca JavaScript para traduzir de português para o portunhol', 'pequeña biblioteca JavaScript para traducir de português para lo portuñol');
   p('o que você vai fazer hoje?', 'lo que usted vai hacer hoy?');
   p('estou trabalhando em melhores traduções e coisas do tipo', 'estoy trabajando en mejores traduciones y coisas del tipo');
+  p('estou no meu direito', 'estoy en el mi direcho');
 });
