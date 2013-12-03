@@ -2,7 +2,7 @@
   "author": "Carlos Villela <cv@lixo.org> (http://lixo.org)",
   "name": "portunhol",
   "description": "Pequena biblioteca JavaScript para traducir de português para lo portuñol",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "homepage": "http://github.com/cv/portunhol.js",
   "license" : "BSD",
 
