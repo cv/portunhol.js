@@ -26,4 +26,5 @@ describe('Portunholator', function() {
   p('o que você vai fazer hoje?', 'lo que usted vai hacer hoy?');
   p('estou trabalhando em melhores traduções e coisas do tipo', 'estoy trabajando en mejores traduciones y coisas del tipo');
   p('estou no meu direito', 'estoy en el mi direcho');
+  p('outros bens materiais', 'otros biens materiales');
 });
