@@ -1,3 +1,5 @@
+!https://travis-ci.org/cv/portunhol.js.png
+
 Portunhol.js
 ------------
 
@@ -26,4 +28,4 @@ Biblioteca:
 Licenzla
 --------
 
-  Ver el arquivo LICENSE
+Ver el arquivo LICENSE
