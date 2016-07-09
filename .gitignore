@@ -1,2 +1,5 @@
 .baseline
 node_modules
+
+*.swo
+*.swp

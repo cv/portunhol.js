@@ -76,7 +76,8 @@ var regexps = [
   [/\b(\w+)uz(\w+)\b/gi, "$1uc$2"],
   [/\b(\w+)quena\b/gi, "$1queña"],
   [/\b(\w+)ou\b/gi, "$1oy"],
-  [/\b(\w+)eit(os?|as?)\b/gi, "$1ech$2"]
+  [/\b(\w+)eit(os?|as?)\b/gi, "$1ech$2"],
+  [/\bahahah\b/gi, "jajaja"]
 ];
 
 exports.portunholate = function(original, debug) {
